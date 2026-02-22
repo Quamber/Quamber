@@ -172,7 +172,7 @@ I'm a **Software Engineer, Architect, and Researcher** with 12+ years of experie
 ---
 
 <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=quamberali&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+    <img src="https://komarev.com/ghpvc/?username=quamber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center"><em>"The only way to do great work is to love what you do."</em></p>
