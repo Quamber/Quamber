@@ -137,7 +137,7 @@ I'm a **Software Engineer, Architect, and Researcher** with 12+ years of experie
 
 ## 🏆 Achievements
 
-🥇 **Employee of the Year** (2021) · 
+🥇 **Employee of the Year** (2021) 
 🏅 **Overachiever Award** at PackageX (2019 & 2020)  
 🥇 Secured Overseas Scholarship for PhD from Higher Education Comission, Pakistan.
 💬 **StackOverflow Moderator** — 2,000+ reputation (Top 14%)  
