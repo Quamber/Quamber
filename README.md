@@ -25,19 +25,6 @@ I'm a **Software Engineer, Architect, and Researcher** with 12+ years of experie
 
 ---
 
-## 🏢 Career Highlights
-
-| Period | Role | Organization |
-|---|---|---|
-| 2023 – Present | **Doctoral Candidate** — Deep Learning for Healthcare | KU Leuven, Belgium |
-| 2021 – 2023 | **Chief Technology Officer** | KWARTS, Belgium |
-| 2019 – 2023 | **Senior Engineering Manager** | PackageX (HQ2), New York |
-| 2018 – 2019 | **Assoc. Manager — Data Science** | Telenor Microfinance Bank |
-| 2017 – 2018 | **Data Scientist** | CreditPer / RedBuffer |
-| 2016 – 2017 | **Researcher** — AIM Lab | FAST-NUCES |
-| 2014 – 2015 | **Software Development Lead** | ThematicWebs |
-| 2012 – 2014 | **Software Engineer** (Android & iOS) | Moftak Solutions |
-
 ---
 
 ## 🛠️ Tech Stack
@@ -133,20 +120,7 @@ I'm a **Software Engineer, Architect, and Researcher** with 12+ years of experie
 2. A.D., H.M., **M.Q. Ali**, and A.R. — *"Dynamic Programming Inspired Genetic Programming to Solve Regression Problems"* — **International Journal of Advanced Computer Science and Applications** 8.4 (2017).  
    [![DOI](https://img.shields.io/badge/DOI-10.14569/IJACSA.2017.080463-blue)](http://dx.doi.org/10.14569/IJACSA.2017.080463)
 
----
 
-## 🏆 Achievements
-
-🥇 **Employee of the Year** (2021)
-
-🏅 **Overachiever Award** at PackageX (2019 & 2020)  
-
-🥇 Secured Overseas Scholarship for PhD from Higher Education Comission, Pakistan.
-
-💬 **StackOverflow Moderator** — 2,000+ reputation (Top 14%)  
-  
-
----
 
 ## 🎓 Education
 
@@ -156,23 +130,3 @@ I'm a **Software Engineer, Architect, and Researcher** with 12+ years of experie
 | **MS** Computer Science | FAST-NUCES | Machine Learning |
 | **BS** Computer Science | IIUI | Computer Science |
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=quamber&show_icons=true&theme=github_dark&hide_border=true&count_private=true" />
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=quamber&layout=compact&theme=github_dark&hide_border=true" />
-</p>
-
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=quamber&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
-<p align="center">
-    <img src="https://komarev.com/ghpvc/?username=quamber&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
-<p align="center"><em>"The only way to do great work is to love what you do."</em></p>
