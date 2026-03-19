@@ -17,7 +17,7 @@
 
 I'm a **Software Engineer, Architect, and Researcher** with 12+ years of experience spanning engineering leadership, machine learning, cloud architecture, and healthcare AI. Currently pursuing a **PhD in Deep Learning for Healthcare** at KU Leuven, where I work on advanced deep learning architectures to enhance disease prediction and uncover key genomic patterns for **Inflammatory Bowel Disease (IBD)**.
 
-- 🔬 Researching **deep learning for genomics**, multitask learning on whole exome sequencing data, and federated analysis systems.
+- 🔬 Researching **deep learning for genomics**, deeplearning learning on whole exome sequencing data, and federated analysis systems.
 - ☁️ Experienced in **cloud-native architectures** (AWS, GCP, Terraform), building scalable platforms from bare-metal to cloud.
 - 👥 Led cross-functional engineering teams (Mobile, Backend, Frontend, ML).
 - 📄 Published in *Evolutionary Intelligence* and *IJACSA* on genetic programming and symbolic regression
